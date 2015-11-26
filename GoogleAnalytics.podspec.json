@@ -29,7 +29,7 @@
     "z"
   ],
   "xcconfig": {
-    "LIBRARY_SEARCH_PATHS": "\"$(PODS_ROOT)/GoogleAnalytics-iOS-SDK\"",
+    "LIBRARY_SEARCH_PATHS": "\"$(PODS_ROOT)/GoogleAnalytics\"",
     "HEADER_SEARCH_PATHS": "$(SDKROOT)/usr/include/libz"
   },
   "requires_arc": false
