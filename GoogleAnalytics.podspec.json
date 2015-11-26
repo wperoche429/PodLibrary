@@ -26,7 +26,8 @@
   "weak_frameworks": "AdSupport",
   "libraries": [
     "GoogleAnalyticsServices",
-    "z"
+    "z",
+    "sqlite3"
   ],
   "xcconfig": {
     "LIBRARY_SEARCH_PATHS": "\"$(PODS_ROOT)/GoogleAnalytics\"",
